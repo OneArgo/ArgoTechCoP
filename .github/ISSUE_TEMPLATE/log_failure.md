@@ -15,11 +15,14 @@ assignees: cgrdn
 
 Float Metadata: Please note that it is ok to leave some or all fields blank if any information is sensitive or cannot be shared, or remove fields that do not apply. 
 
+If the float life has ended, please try to include an ending cause as described in the NVS: https://vocab.nerc.ac.uk/collection/R31/current/
+
 WMO:
 Model:
 Sensor:
 Serial Number(s):
 Date:
+NVS Vocab:
 
 **Failure Mode Description**
 
