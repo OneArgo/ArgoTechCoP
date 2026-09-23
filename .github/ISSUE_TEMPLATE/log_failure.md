@@ -10,10 +10,11 @@ assignees: cgrdn
 **Checklist**
 
 - [ ] Issue sent to appropriate industry partner support email
+- [ ] Failure logged for reporting (assigned to @cgrdn)
 
-**Information**
+**Information / Metadata**
 
-Float Metadata: Please note that it is ok to leave some or all fields blank if any information is sensitive or cannot be shared, or remove fields that do not apply. 
+Float Metadata: Please note that it is ok to leave some or all fields blank if any information is sensitive or cannot be shared, or remove fields that do not apply. The important thing is to describe the nature of the failure. 
 
 If the float life has ended, please try to include an ending cause as described in the NVS: https://vocab.nerc.ac.uk/collection/R31/current/
 
