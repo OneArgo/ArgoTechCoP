@@ -1,7 +1,7 @@
 ---
 name: Float failure log
 about: Log any issue found with a float in pre-deployment checks, during operation, or failure mode
-title: ''
+title: 'Failure Log: '
 labels: 'failure log'
 assignees: cgrdn
 
