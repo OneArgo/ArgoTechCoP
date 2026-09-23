@@ -2,7 +2,7 @@
 name: Float testing request
 about: Request dockside testing for a float where the float owner/technician cannot be present for final checkout before loading on the ship
 title: ''
-labels: 'pre-deployment', 'help wanted'
+labels: 'pre-deployment, help wanted'
 assignees: cgrdn
 
 ---
